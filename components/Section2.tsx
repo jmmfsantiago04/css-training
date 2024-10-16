@@ -2,8 +2,8 @@
 
 import React from 'react';
 import Image from 'next/image';
-import BlueColumn from '../public/BlueColumn.png'; // Path to your blue image
-import RedColumn from '../public/RedColumn.png';  // Path to your red image
+import BlueColumn from '../public/BlueColumn.png';
+import RedColumn from '../public/RedColumn.png';  
 
 const Section2 = () => {
   return (
